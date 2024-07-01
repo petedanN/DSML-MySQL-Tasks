@@ -1,1 +1,1 @@
-# DSML-MySQL-Tasks
+MySQL Tasks
